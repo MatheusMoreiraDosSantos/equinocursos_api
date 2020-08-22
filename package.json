@@ -1,0 +1,13 @@
+{
+  "name": "equinocursos_api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "matheusmoreira",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.16.1"
+  },
+  "scripts": {
+    "start":"yarn json-server db.json -p 3333"
+  }
+}
