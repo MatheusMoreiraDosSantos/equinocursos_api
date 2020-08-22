@@ -1,1 +1,1 @@
-web : yarn json-server db.json -p 3333
+web : yarn start
